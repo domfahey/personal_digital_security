@@ -1,5 +1,3 @@
-# personal_digital_security
-
 # Personal Digital Security Guide
 **Rev 20240208**  
 **Dominic Fahey**  
